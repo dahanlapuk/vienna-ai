@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://itbamuhammad.github.io/vienna-ai",
+  "homepage": "https://dahanlapuk.github.io/vienna-ai",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
